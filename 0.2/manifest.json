@@ -1,0 +1,10 @@
+{
+  "name": "Leyton Group AR QC",
+  "short_name": "Leyton AR QC",
+  "start_url": "./leyton-ar-qc.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1A1A1A",
+  "theme_color": "#B30000",
+  "icons": []
+}
